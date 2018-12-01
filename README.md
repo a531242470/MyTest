@@ -6,3 +6,5 @@ Just my test
 #
 用OKHTTP在一个免费的天气预报API上面拿JSON数据然后存放到本地数据库
 ##
+Content Povider使用
+##
